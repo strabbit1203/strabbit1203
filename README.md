@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! There. 👋</h1>
-<h3 align="center">An Experienced Frontend | Backend | Blockchain Engineer</h3>
+<h3 align="center">An Versatile Mobile | Frontend | Backend | Blockchain Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strabbit1203&label=Profile%20views&color=0e75b6&style=flat" alt="strabbit1203" /> </p>
 
@@ -7,13 +7,21 @@
 
 - ❤ Major Experiences
 
-    • Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
+    • Mobile Development: React Native, Flutter, Kotlin, Swift
+
+    • Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS, Bootstrap, Material UI, HTML5, CSS3, Webpack, JQuery
   
-    • Backend Development with Node.JS, GraphQL, Golang, Django, Laravel, Slim.
+    • Backend Development with Node.JS, Laravel, Golang, Django, FastAPI, REST, GraphQL
 
     • Blockchain Development (DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust, FunC, EVM, Solana, Ton, Polkadot and Cosmos SDK etc)
-  
 
+    • Database Systems & Data Management with PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, Redis, Snowflake, Elasticsearch, AWS RDS, Oracle DB, Apache Solr
+
+    • Cloud Platforms & Infrastructure with AWS (EC2, S3, Lambda, Elastic Beanstalk, CloudWatch, EKS, SNS, SQS), Google Cloud Platform, OpenShift, Terraform, Kubernetes, Docker, Serverless Architecture
+  
+    • Automation & DevOps with Git, Jenkins, GitHub Actions, GitLab CI, CircleCI, Docker, Kubernetes, Terraform, Groovy, CI/CD Pipelines, Helm, Infrastructure as Code (IaC)
+
+    • Project Management & Collaboration Tools with Jira, Confluence, Slack, Trello, Agile Methodologies, Scrum, Kanban, Git, Version Control Systems
 
 <br>
 <p align="center">
