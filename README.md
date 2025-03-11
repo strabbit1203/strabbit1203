@@ -3,25 +3,48 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strabbit1203&label=Profile%20views&color=0e75b6&style=flat" alt="strabbit1203" /> </p>
 
-- ❤ Senior Full stack developer.
+# 🚀 **Senior Full Stack Developer** ❤️  
 
-- ❤ Major Experiences
+🔹 Passionate about building high-quality, scalable, and innovative applications!  
 
-    • Mobile Development: React Native, Flutter, Kotlin, Swift
+## 💡 **Major Experiences**  
 
-    • Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS, Bootstrap, Material UI, HTML5, CSS3, Webpack, JQuery
-  
-    • Backend Development with Node.JS, Laravel, Golang, Django, FastAPI, REST, GraphQL
+### 📱 **Mobile Development**  
+   - ⚡ **React Native** | 🦋 **Flutter** | 📱 **Kotlin** | 🍏 **Swift**  
 
-    • Blockchain Development (DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust, FunC, EVM, Solana, Ton, Polkadot and Cosmos SDK etc)
+### 🎨 **Web Design & Frontend Development**  
+   - ⚛️ **React.JS** | ⏭ **Next.JS** | 🔥 **Vue.JS** | 🅰️ **Angular** | 💫 **Svelte** | ⌨ **Typescript**  
+   - 🎨 **TailwindCSS** | 🎭 **Bootstrap** | 🖌 **Material UI** | 🌍 **HTML5 & CSS3** | 🔧 **Webpack** | ⚡ **JQuery**  
 
-    • Database Systems & Data Management with PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, Redis, Snowflake, Elasticsearch, AWS RDS, Oracle DB, Apache Solr
+### 🏗 **Backend Development**  
+   - 🚀 **Node.JS** | 🛠 **Laravel** | 🦍 **Golang** | 🐍 **Django & FastAPI**  
+   - 🌐 **REST APIs & GraphQL**  
 
-    • Cloud Platforms & Infrastructure with AWS (EC2, S3, Lambda, Elastic Beanstalk, CloudWatch, EKS, SNS, SQS), Google Cloud Platform, OpenShift, Terraform, Kubernetes, Docker, Serverless Architecture
-  
-    • Automation & DevOps with Git, Jenkins, GitHub Actions, GitLab CI, CircleCI, Docker, Kubernetes, Terraform, Groovy, CI/CD Pipelines, Helm, Infrastructure as Code (IaC)
+### 🔗 **Blockchain Development**  
+   - 🔥 **DePIN, DeFi, NFT, DApps, DEX, P2E**  
+   - 💎 **Smart Contracts with Solidity, Rust, FunC**  
+   - 🌍 **EVM | Solana | Ton | Polkadot | Cosmos SDK**  
 
-    • Project Management & Collaboration Tools with Jira, Confluence, Slack, Trello, Agile Methodologies, Scrum, Kanban, Git, Version Control Systems
+### 🗄 **Database Systems & Data Management**  
+   - 🐘 **PostgreSQL** | 🐬 **MySQL** | 🍃 **MongoDB** | 🏢 **Microsoft SQL Server**  
+   - 🚀 **Redis** | ❄ **Snowflake** | 🔍 **Elasticsearch** | ☁ **AWS RDS** | 🔥 **Oracle DB** | 🌞 **Apache Solr**  
+
+### ☁ **Cloud Platforms & Infrastructure**  
+   - 🌩 **AWS** (EC2, S3, Lambda, EKS, SNS, SQS, etc.)  
+   - ☁ **Google Cloud Platform** | 🚀 **OpenShift** | 🏗 **Terraform**  
+   - 🐳 **Docker** | ☸ **Kubernetes** | ⚡ **Serverless Architecture**  
+
+### ⚙ **Automation & DevOps**  
+   - 🛠 **Git, Jenkins, GitHub Actions, GitLab CI, CircleCI**  
+   - 🏗 **CI/CD Pipelines** | 🛳 **Helm** | 🔥 **Infrastructure as Code (IaC)**  
+
+### 📊 **Project Management & Collaboration**  
+   - 🎯 **Jira** | 📖 **Confluence** | 💬 **Slack** | 📌 **Trello**  
+   - 🏆 **Agile | Scrum | Kanban**  
+   - 🧑‍💻 **Version Control with Git**  
+
+💡 **Always eager to learn, innovate, and create impactful solutions!** 🚀  
+
 
 <br>
 <p align="center">
