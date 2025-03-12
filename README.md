@@ -46,21 +46,7 @@
 💡 **Always eager to learn, innovate, and create impactful solutions!** 🚀  
 
 
-<br>
-<p align="center">
-<p><img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=strabbit1203&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=strabbit1203&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
-<br><br><br><br><br><br><br><br><br>
 
-
-
-<p align="center">
-  <a>
-    <img height="120" width="150" src="https://github.com/V0410/V0410/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strabbit1203&theme=dark"/>
-    <img height="120" width="150" src="https://github.com/V0410/V0410/blob/main/right.png">
-  </a>
-</p>
 
 <br>
 
